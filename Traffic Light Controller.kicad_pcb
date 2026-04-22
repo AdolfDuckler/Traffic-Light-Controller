@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "TRAFFIC LIGHT CONTROLLER")
+		(date "2026-04-13")
+		(rev "1")
+		(company "Computer Engineering Technology")
+		(comment 1 "Djard A. Desengaño")
+	)
 	(layers
 		(0 "F.Cu" mixed)
 		(2 "B.Cu" mixed)
